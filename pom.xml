@@ -497,15 +497,15 @@
     </profiles>
  <distributionManagement>
 	<repository>
-		<id>releases</id>
-		<name>Releases</name>
-		<url>http://192.168.12.153:8081/nexus/content/repositories/releases/</url>
+		<id>javareleases</id>
+		<name>Javareleases</name>
+		<url>http://192.168.12.153:8081/nexus/content/repositories/javareleases/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>snapshots</id>
-		<name>Snapshots</name>
-		<url>http://192.168.12.153:8081/nexus/content/repositories/snapshots/</url>
+		<id>javasnapshots</id>
+		<name>Javasnapshots</name>
+		<url>http://192.168.12.153:8081/nexus/content/repositories/javasnapshots/</url>
 	</snapshotRepository>
 
 </distributionManagement>
