@@ -497,15 +497,15 @@
     </profiles>
  <distributionManagement>
 	<repository>
-		<id>javareleases</id>
-		<name>Javareleases</name>
-		<url>http://192.168.12.153:8081/nexus/content/repositories/javareleases/</url>
+		<id>gameoflife</id>
+		<name>Gameoflife</name>
+		<url>http://192.168.12.153:8081/nexus/content/repositories/gameoflife/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>javasnapshots</id>
-		<name>Javasnapshots</name>
-		<url>http://192.168.12.153:8081/nexus/content/repositories/javasnapshots/</url>
+		<id>gameoflife1</id>
+		<name>Gameoflife1</name>
+		<url>http://192.168.12.153:8081/nexus/content/repositories/gameoflife1/</url>
 	</snapshotRepository>
 
 </distributionManagement>
