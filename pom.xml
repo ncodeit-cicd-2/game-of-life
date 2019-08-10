@@ -497,14 +497,14 @@
     </profiles>
  <distributionManagement>
 	<repository>
-		<id>gameoflife</id>
-		<name>Gameoflife</name>
+		<id>deployment</id>
+		<name>Internal Releases1</name>
 		<url>http://192.168.12.153:8081/nexus/content/repositories/gameoflife/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>gameoflife1</id>
-		<name>Gameoflife1</name>
+		<id>deployment</id>
+		<name>Internal Releases</name>
 		<url>http://192.168.12.153:8081/nexus/content/repositories/gameoflife1/</url>
 	</snapshotRepository>
 
